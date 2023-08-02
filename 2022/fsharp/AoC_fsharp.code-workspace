@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"ionide.ionide-fsharp",
+			// dependcies
+			// "ms-dotnettools.csharp",
+			// "ms-dotnettools.vscode-dotnet-runtime",
+		]
+	}
+}
